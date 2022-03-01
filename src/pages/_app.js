@@ -1,7 +1,7 @@
 import React from "react";
 import Head from "next/head";
 import Script from "next/script";
-import Cursor from "../components/cursor";
+//import Cursor from "../components/cursor";
 import ScrollToTop from "../components/scrollToTop";
 import "../styles/main.scss";
 
@@ -12,7 +12,7 @@ function MyApp({ Component, pageProps }) {
         <title>Dipesh Sukhani</title>
         <link rel="icon" href="/img/favicon.ico" />
       </Head>
-      <Cursor />
+    {/* <Cursor /> */}
       <Component {...pageProps} />
       <ScrollToTop />
       <Script id="wow" src="/js/wow.min.js"></Script>
