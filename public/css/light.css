@@ -1264,9 +1264,6 @@ span:hover {
 
 /* ====================== [ End Text Animation & Images ] ====================== */
 /* ====================== [ Start Cursor Style ] ====================== */
-body {
-  cursor: none;
-}
 
 .mouse-cursor {
   position: fixed;
@@ -1276,7 +1273,7 @@ body {
   border-radius: 50%;
   -webkit-transform: translateZ(0);
   transform: translateZ(0);
-  visibility: hidden;
+  visibility: visible;
 }
 
 .cursor-inner {
