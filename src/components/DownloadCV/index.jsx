@@ -25,7 +25,7 @@ const DownloadCV = () => {
                               type="submit"
                               className="nb butn bord curve mt-30"
                             >
-                              <span style={{letterSpacing: '3px', fontSize: '30px'}}><a target="_blank" rel="noreferrer" href="https://bit.ly/dipeshBio" title="" download>DOWNLOAD</a></span>
+                              <span style={{letterSpacing: '3px', fontSize: '30px'}}><a target="_blank" rel="noreferrer" href="https://bit.ly/dipeshDevBio" title="" download>DOWNLOAD</a></span>
                             </button>
               </div>
               <div className="row">
