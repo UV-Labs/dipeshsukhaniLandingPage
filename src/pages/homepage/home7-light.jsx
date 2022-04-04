@@ -34,12 +34,11 @@ const Homepage1 = () => {
     <LightTheme>
       <Navbar nr={navbarRef} lr={logoRef} theme="themeL" />
       <FreelancreIntro />
-      {/* <Services5 /> */}
+    
       <WorksStyle4 />
-      {/* <AboutUs5 /> */}
-      {/* <FullTestimonials showHead /> */}
+  
       <DownloadCV />
-      <Blogs2 />
+      <Blogs2 /> 
       <SContactForm noLine />
       <Footer />
     </LightTheme>

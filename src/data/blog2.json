@@ -1,6 +1,32 @@
 [
   {
     "id": 1,
+    "title": "Creating and Deploying your first Smart Contract",
+    "content": "There are a lot of people out there who are exploring web3 and blockchain. A lot of people have reached out to us asking for a quick tutorial for a Hello World Smart Contract.",
+    "image": "/img/blog/2a.png",
+    "tags": ["Blockchain", "Ethereum", "Smart Contract"],
+    "date": {
+      "day": "28",
+      "month": "March",
+      "year": "2022"
+    },
+    "link": "https://medium.com/uv-labs/creating-and-deploying-your-first-smart-contract-466b4d4784e2"
+  },
+  {
+    "id": 2,
+    "title": "Web3: Should I use Infura / Alchemy or Run a Node?",
+    "content": "Unless you have been living under a rock, you would have come across the term Web3, through a blog post, news articles, or some other source. Trust me, Web3 has been shaking the internet as it exists today.",
+    "image": "/img/blog/3a.png",
+    "tags": ["Blockchain", "Ethereum", "Smart Contract"],
+    "date": {
+      "day": "23",
+      "month": "March",
+      "year": "2022"
+    },
+    "link": "https://medium.com/uv-labs/web3-should-i-use-infura-alchemy-or-run-a-node-5311a13d173"
+  },
+  {
+    "id": 2,
     "title": "Flash Loans | Make profit in almost 14 secs - if you are smart enough. People have already started doing it.",
     "content": "Another one of my quick notes => I assume that you (the reader) understands Blockchain [Ethereum specifically], smart contracts and DeFi (aka decentralised finance). If not, this will be tough to follow and hence, advisable to dig about these first and come back over here.",
     "image": "/img/blog/1.png",

@@ -67,16 +67,19 @@ const  BlogList = ({ blogs }) => {
                 <span className="active">
                   <Link href={`/blog-list/blog-list-light/`}>1</Link>
                 </span>
+
+
                 {/* <span>
-                  <Link href={`/blog/blog-dark`}>2</Link>
+                  <Link href={`/blog-list/blog-list-light/`}>2</Link>
                 </span>
                 <span>
-                  <Link href={`/blog/blog-dark`}>
+                  <Link href={`/blog-list/blog-list-light/`}>
                     <a>
                       <i className="fas fa-angle-right"></i>
                     </a>
                   </Link>
                 </span> */}
+
               </div>
             </div>
           </div>
