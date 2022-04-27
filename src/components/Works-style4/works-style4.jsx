@@ -43,7 +43,7 @@ const WorksStyle4 = () => {
                   <h6>Timeswap</h6>
                   <p>Fully decentralized AMM based money market protocol on Ethereum. It is a non-custodial, immutable, censorship-resistant, peer-to-pool protocol which works without oracles or liqduidators.</p>
                 </div>
-                <Link href={`https://www.halodao.com/`}>
+                <Link href={`https://timeswap.io/`}>
                   <a target="_blank" className="rota">
                     <img src="/img/portfolio/freelancer/6.png" alt="image" />
                     <div className="item-img-overlay"></div>
@@ -63,10 +63,10 @@ const WorksStyle4 = () => {
             >
               <div className="item-img">
                 <div className="cont">
-                  <h6>Halo DOA</h6>
+                  <h6>Halo DAO</h6>
                   <p>HaloDAO Protocol is a decentralised application platform designed to provide stablecoins optimised swaps between each other and against other crypto assets via an automated market maker. It also has the function of enabling stablecoin lending markets.</p>
                 </div>
-                <Link href={`https://timeswap.io/`}>
+                <Link href={`https://www.halodao.com/`}>
                   <a target="_blank" className="rota">
                     <img src="/img/portfolio/freelancer/4.png" alt="image" />
                     <div className="item-img-overlay"></div>  
@@ -111,7 +111,7 @@ const WorksStyle4 = () => {
               <div className="item-img">
                 <div className="cont">
                   <h6>Zapper</h6>
-                  <p>fintech platform that manages all DeFi assets from one simple interface. It levels the playing field for decentralized finance newcomers and the most advanced investors by providing shortcuts to enter DeFi lending, automated yield farming, and liquidity provisions</p>
+                  <p>Fintech platform that manages all DeFi assets from one simple interface. It levels the playing field for decentralized finance newcomers and the most advanced investors by providing shortcuts to enter DeFi lending, automated yield farming, and liquidity provisions</p>
                 </div>
                 <Link href={`https://zapper.fi//`}>
                   <a target="_blank" className="rota">
@@ -138,7 +138,7 @@ const WorksStyle4 = () => {
                   <h6>1exchange</h6>
                   <p>1exchange is a global private securities exchange designed to help private companies raise capital and facilitate secondary trading. 1X is an investee of Singapore Exchange and is among the world&apos;s first regulated private securities exchanges.</p>
                 </div>
-                <Link href={`https://www.infuzex.in`}>
+                <Link href={`https://www.1x.exchange/`}>
                   <a target="_blank" className="rota">
                     <img src="/img/portfolio/freelancer/8.png" alt="image" />
                     <div className="item-img-overlay"></div>
