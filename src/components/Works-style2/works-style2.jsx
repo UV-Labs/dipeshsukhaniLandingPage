@@ -101,7 +101,7 @@ const WorksStyle2 = ({ grid, hideFilter, filterPosition }) => {
                 </Link>
               </div>
               <div className="cont">
-                <h6>Halo DOA</h6>
+                <h6>Halo DAO</h6>
                 <span>
                 Advised/Rendered services
                 </span>
